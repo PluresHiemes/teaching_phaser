@@ -14,9 +14,7 @@ var mainState = {
     }
     , update: function () {
         
-        // This contains Game Logic
-        
-       
+        // This contains Game Logic 
     }
 };
 // We initialize Phaser
